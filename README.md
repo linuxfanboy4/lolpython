@@ -1,0 +1,2 @@
+# lolpython
+Hijacking Python 😂
